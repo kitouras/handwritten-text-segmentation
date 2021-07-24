@@ -1,2 +1,2 @@
 # handwritten-text-segmentation
-Segmentation russian handwritten text by Unet + Gabor filters.
+Segmentation of a russian handwritten text by Unet + Gabor filters.
